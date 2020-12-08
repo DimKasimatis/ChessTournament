@@ -26,6 +26,6 @@ public class Clock extends Naming {
     }
     
     public void moveTime(int timer) {
-        this.timer = timer - 15;
+        this.timer = timer - 10;
     }
 }
